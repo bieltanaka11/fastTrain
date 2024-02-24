@@ -3,8 +3,9 @@
 
 
 
-*Área de domínio do projeto*
-  Transporte
+*Área de domínio do projeto:*
+
+Transporte
  
 Acreditamos que é uma demanda que afeta milhões de pessoas diariamente e que seria uma solução muito útil.
 
