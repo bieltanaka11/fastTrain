@@ -18,5 +18,6 @@ Financeiramente é viável pois as maiores custas seriam de implementação efet
 *Justificativa:* https://g1.globo.com/fantastico/noticia/2023/05/14/atrasos-superlotacao-acidentes-veja-o-sufoco-de-quem-depende-de-trens-em-sao-paulo.ghtml   
 Qualidade ruim do serviço prestado. Vagões extremamente cheios. Demora para chegada do trem. Lotação nas plataformas.
 
-# Benefícios: Otimização do tempo e consequentemente melhora no período de espera nas estações, além de vagões mais vazios e mais confortáveis. 
+# Benefícios: 
+Otimização do tempo e consequentemente melhora no período de espera nas estações, além de vagões mais vazios e mais confortáveis. 
 Equipe ganhará experiência nesta área.
